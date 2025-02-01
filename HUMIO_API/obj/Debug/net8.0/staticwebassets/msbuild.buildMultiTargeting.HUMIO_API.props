@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HUMIO_API.props" />
+</Project>

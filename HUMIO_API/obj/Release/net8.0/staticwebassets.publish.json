@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "eWQIR4nSaBZ0X9kWPBIogo/QAa1JDi3VgJq3CQY5RQU=",
+  "Source": "HUMIO_API",
+  "BasePath": "_content/HUMIO_API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
